@@ -32,3 +32,6 @@ This game simulates a simple cricket match where users can play, and the result 
 - User input is compared with computer choice
 - Result is calculated based on game rules
 - Scoreboard updates dynamically
+
+## 🌐 Live Demo
+https://cricket-game-page.vercel.app/
