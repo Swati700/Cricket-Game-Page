@@ -1,4 +1,4 @@
-# 🏏 Cricket Game (HTML, CSS, JavaScript)
+## 🏏 Cricket Game (HTML, CSS, JavaScript)
 
 A fun and interactive Cricket Game built using HTML, CSS, and JavaScript.  
 This game simulates a simple cricket match where users can play, and the result is displayed after each round.
